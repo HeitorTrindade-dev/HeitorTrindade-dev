@@ -1,61 +1,30 @@
-# Heitor Trindade
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-**Computer Science Student @ UENF**  
-**IT Technician @ IFF**
+<h1 align="center">Heitor Trindade 🤘</h1>
 
-I’m interested in the science of computation — exploring algorithms, systems and software as tools to understand and solve complex problems. My work focuses on building reliable systems, experimenting with automation and developing software grounded in solid computer science principles.
+<p align="center">
+Computer Science Student @ UENF • IT Technician @ IFF
+</p>
+
+---
+## 🛠 My Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,react,sqlite,linux,arch" />
+</p>
 
 ---
 
-## Research & Interests
+## 🧠 Areas of Interest
 
-- Algorithms and Data Structures
-- Computer Systems
-- Software Architecture
-- Automation and Distributed Systems
-- Robotics and Embedded Systems
-- Artificial Intelligence
-
----
-
-## Tech Stack
-
-### Languages
-
-`Python` `C#` `JavaScript` `C/C++`
-
-### Technologies
-
-`Linux` `Node.js` `Git` `Arduino` `EV3 Robotics`
-
-### Areas
-
-- Backend Development  
-- Automation  
-- Systems Programming  
+- Backend Development
+- Artificial Intelligence Development
+- Data Mining
+- Algorithms
 - Robotics
+- Rock n' Roll 🤘 
 
 ---
 
-## Selected Work
-
-Some areas I enjoy exploring through projects:
-
-- Robotics control systems  
-- Automation pipelines  
-- Algorithmic experiments  
-- Backend services  
-
----
-
-## Philosophy
-
-> Computer science is not just about writing code —  
-> it is about understanding the fundamental principles that allow machines to process information.
-
----
-
-## Contact
-
-- GitHub: https://github.com/seuusuario  
-- Email: seuemail@email.com
