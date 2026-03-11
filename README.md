@@ -26,9 +26,6 @@
 
 ## 🎧 Coding Soundtrack
 
-- System of a Down
-- Red Hot Chili Peppers
-- Metalica
 - Angra
 - Linking Park
 - Evanescence
