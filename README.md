@@ -1,8 +1,9 @@
 ![Header](./github-header-banner.png)
 
-<p align="center">
-Computer Science Student UENF • IT Technician IFF
-</p>
+## 🎓 Education
+
+- **Computer Science** — UENF (in progress)
+- **Technical Degree in Information Technology** — IFF
 
 ---
 ## 🛠 My Technologies
