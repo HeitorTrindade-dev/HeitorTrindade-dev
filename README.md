@@ -20,7 +20,6 @@ Computer Science Student UENF • IT Technician IFF
 - Data Mining
 - Algorithms
 - Robotics
-- Metal
-
+- Operational Systems
 ---
 
