@@ -1,16 +1,61 @@
-## Hi there 👋
+# Heitor Trindade
 
-<!--
-**HeitorTrindade-dev/HeitorTrindade-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ UENF**  
+**IT Technician @ IFF**
 
-Here are some ideas to get you started:
+I’m interested in the science of computation — exploring algorithms, systems and software as tools to understand and solve complex problems. My work focuses on building reliable systems, experimenting with automation and developing software grounded in solid computer science principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research & Interests
+
+- Algorithms and Data Structures
+- Computer Systems
+- Software Architecture
+- Automation and Distributed Systems
+- Robotics and Embedded Systems
+- Artificial Intelligence
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Python` `C#` `JavaScript` `C/C++`
+
+### Technologies
+
+`Linux` `Node.js` `Git` `Arduino` `EV3 Robotics`
+
+### Areas
+
+- Backend Development  
+- Automation  
+- Systems Programming  
+- Robotics
+
+---
+
+## Selected Work
+
+Some areas I enjoy exploring through projects:
+
+- Robotics control systems  
+- Automation pipelines  
+- Algorithmic experiments  
+- Backend services  
+
+---
+
+## Philosophy
+
+> Computer science is not just about writing code —  
+> it is about understanding the fundamental principles that allow machines to process information.
+
+---
+
+## Contact
+
+- GitHub: https://github.com/seuusuario  
+- Email: seuemail@email.com
