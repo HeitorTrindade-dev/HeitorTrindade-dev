@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
 
 <h1 align="center">Heitor Trindade 🤘</h1>
 
@@ -24,7 +21,7 @@ Computer Science Student @ UENF • IT Technician @ IFF
 - Data Mining
 - Algorithms
 - Robotics
-- Rock n' Roll 🤘 
+- Metal
 
 ---
 
