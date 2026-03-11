@@ -1,4 +1,4 @@
-
+![Header](./github-header-banner.png)
 <h1 align="center">Heitor Trindade 🤘</h1>
 
 <p align="center">
