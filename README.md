@@ -12,6 +12,11 @@
   <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,php,react,sqlite,linux,arch" />
 </p>
 
+## 📖LEARNING NOW
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,postgres" />
+</p>
+
 ---
 
 ## 🧠 Areas of Interest
