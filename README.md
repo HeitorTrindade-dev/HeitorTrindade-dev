@@ -13,7 +13,7 @@
 </p>
 
 ## 📖LEARNING NOW
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,postgres" />
 </p>
 
