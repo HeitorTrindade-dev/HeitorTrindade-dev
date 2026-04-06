@@ -14,7 +14,7 @@
 
 ## 📖LEARNING NOW
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=node,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
 </p>
 
 ---
