@@ -9,7 +9,7 @@
 ## 🛠 My Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,react,sqlite,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,spring,python,js,sqlite,linux" />
 </p>
 
 ## 📖LEARNING NOW
