@@ -9,12 +9,12 @@
 ## 🛠 My Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,spring,python,js,sqlite,linux" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,python,js,nodejs,sqlite,linux,python" />
 </p>
 
 ## 📖LEARNING NOW
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,redhat" />
 </p>
 
 ---
@@ -22,13 +22,7 @@
 ## 🧠 Areas of Interest
 
 - Backend Development
-- Algorithms
+- Cybersecurity
 - Robotics
 - Operational Systems
 ---
-
-## 🎧 Coding Soundtrack
-
-- Angra
-- Linking Park
-- Evanescence
