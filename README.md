@@ -9,12 +9,12 @@
 ## 🛠 My Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,python,js,nodejs,sqlite,linux,python" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,nodejs,MySQL,postgress,linux,python" />
 </p>
 
 ## 📖LEARNING NOW
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,redhat" />
+  <img src="https://skillicons.dev/icons?i=docker,redhat,fastapi" />
 </p>
 
 ---
